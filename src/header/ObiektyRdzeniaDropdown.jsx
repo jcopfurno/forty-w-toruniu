@@ -4,13 +4,13 @@ const ObiektyRdzeniaDropDown = () => {
 
     return (
         <div className="FortyDropdown">
-            <div> <Link to="/ObiektyRdzenia/BastionI"> <button> Bastion I "Nowy" </button> </Link> </div>
-            <div> <Link to="/ObiektyRdzenia/BateriaDobrzynska"> <button> Bateria Dobrzynska </button> </Link> </div> 
-            <div> <Link to="/ObiektyRdzenia/BramaKolejowa"> <button> Brama Kolejowa </button> </Link> </div>
-            <div> <Link to="/ObiektyRdzenia/FortJakuba"> <button> Fort Jakuba </button> </Link> </div>
-            <div> <Link to="/ObiektyRdzenia/FortKolejowy"> <button> Fort Kolejowy </button> </Link> </div>
-            <div> <Link to="/ObiektyRdzenia/MagazynProwiantowy"> <button> Magazyn prowiantowy </button> </Link> </div>
-            <div> <Link to="/ObiektyRdzenia/PrzyczolekMostowy"> <button> Przyczółek Mostowy </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/BastionI"> <button> Bastion I "Nowy" </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/BateriaDobrzynska"> <button> Bateria Dobrzynska </button> </Link> </div> 
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/BramaKolejowa"> <button> Brama Kolejowa </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/FortJakuba"> <button> Fort Jakuba </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/FortKolejowy"> <button> Fort Kolejowy </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/MagazynProwiantowy"> <button> Magazyn prowiantowy </button> </Link> </div>
+            <div> <Link to="/forty-w-toruniu/ObiektyRdzenia/PrzyczolekMostowy"> <button> Przyczółek Mostowy </button> </Link> </div>
         </div>
     );
 };

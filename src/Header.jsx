@@ -8,7 +8,7 @@ function Header() {
         <>
             <header> 
                 <div></div>
-                <Link to="/"> 
+                <Link to="/forty-w-toruniu/"> 
                     <button className="headerButton">
                         FortyTorun.pl
                     </button> 
@@ -43,7 +43,7 @@ function Header() {
 
                 <div class="line"></div>
 
-                <Link to="/Kontakt">
+                <Link to="/forty-w-toruniu/Kontakt">
                     <button className="headerButton">
                         Kontakt
                     </button>
