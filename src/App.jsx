@@ -34,27 +34,27 @@ function App() {
 
         <Routes>
 
-        <Route path = "/" element = {<Home/>} />
-        <Route path = "/Kontakt" element = {<Kontakt/>} />
+        <Route path = "/forty-w-toruniu/" element = {<Home/>} />
+        <Route path = "/forty-w-toruniu/Kontakt" element = {<Kontakt/>} />
 
-        <Route path = "/FortyGlowne/Fort_IV" element = {<Fort_IV/>} />
-        <Route path = "/FortyGlowne/Fort_VII" element = {<Fort_VII/>} />
-        <Route path = "/FortyGlowne/Fort_XI" element = {<Fort_XI/>} />
+        <Route path = "/forty-w-toruniu/FortyGlowne/Fort_IV" element = {<Fort_IV/>} />
+        <Route path = "/forty-w-toruniu/FortyGlowne/Fort_VII" element = {<Fort_VII/>} />
+        <Route path = "/forty-w-toruniu/FortyGlowne/Fort_XI" element = {<Fort_XI/>} />
 
-        <Route path = "/FortyPosrednie/Fort_I" element = {<Fort_I/>} />
-        <Route path = "/FortyPosrednie/Fort_VI" element = {<Fort_VI/>} />
-        <Route path = "/FortyPosrednie/Fort_VIII" element = {<Fort_VIII/>} />
-        <Route path = "/FortyPosrednie/Fort_X" element = {<Fort_X/>} />
-        <Route path = "/FortyPosrednie/Fort_XII" element = {<Fort_XII/>} />
-        <Route path = "/FortyPosrednie/Fort_XIV" element = {<Fort_XIV/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_I" element = {<Fort_I/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_VI" element = {<Fort_VI/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_VIII" element = {<Fort_VIII/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_X" element = {<Fort_X/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_XII" element = {<Fort_XII/>} />
+        <Route path = "/forty-w-toruniu/FortyPosrednie/Fort_XIV" element = {<Fort_XIV/>} />
 
-        <Route path = "/ObiektyRdzenia/BastionI" element = {<BastionI/>} />
-        <Route path = "/ObiektyRdzenia/BateriaDobrzynska" element = {<BateriaDobrzynska/>} />
-        <Route path = "/ObiektyRdzenia/BramaKolejowa" element = {<BramaKolejowa/>} />
-        <Route path = "/ObiektyRdzenia/FortJakuba" element = {<FortJakuba/>} />
-        <Route path = "/ObiektyRdzenia/FortKolejowy" element = {<FortKolejowy/>} />
-        <Route path = "/ObiektyRdzenia/MagazynProwiantowy" element = {<MagazynProwiantowy/>} />
-        <Route path = "/ObiektyRdzenia/PrzyczolekMostowy" element = {<PrzyczolekMostowy/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/BastionI" element = {<BastionI/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/BateriaDobrzynska" element = {<BateriaDobrzynska/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/BramaKolejowa" element = {<BramaKolejowa/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/FortJakuba" element = {<FortJakuba/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/FortKolejowy" element = {<FortKolejowy/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/MagazynProwiantowy" element = {<MagazynProwiantowy/>} />
+        <Route path = "/forty-w-toruniu/ObiektyRdzenia/PrzyczolekMostowy" element = {<PrzyczolekMostowy/>} />
 
         </Routes>
 
