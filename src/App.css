@@ -1,0 +1,90 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    display:grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer{
+    background-color:rgb(32,32,32);
+    color: lightgray;
+    padding: 3vh 5vw; 
+    margin-top: 3vh;
+}
+
+header{
+    background-color:rgb(32,32,32);
+    color: lightgray;
+    padding: 1vh 2vh;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    height: 4vh;
+}
+
+.pText {
+    margin-left: 10vh;
+    margin-right: 6vw;
+    font-size: 18px;
+    display: absolute;
+}
+
+.h1Text {
+    margin-left: 10vh;
+    margin-right: 6vw;
+}
+
+.headerButton {
+    width: 25vh;
+    height: 3vh;
+    background-color: rgb(32, 32, 32);
+    color: lightgray;
+    border: none;
+    cursor: pointer; 
+    height: 4vh;
+}
+
+.headerButton:hover {
+    background-color: rgb(48,48,48);
+}
+
+.line{
+    background-color:lightgray;
+    height:3vh;
+    width:2px;
+    display: inline-block;
+}
+
+.dropdown .FortyDropdown {
+    display: none;
+    position: absolute;
+    display: none;
+}
+
+.dropdown:hover .FortyDropdown {
+    display: block;
+    background-color:lightgray;
+}
+
+.FortyDropdown button {
+    background-color: hsl(24 0% 88%);
+    border: none;
+    padding: 1vh;
+    cursor: pointer;
+    width: auto;
+    text-align: left;
+}
+
+.FortyDropdown button {
+    width: 100%;
+}
+
+.FortyDropdown button:hover {
+    background-color: lightgray;
+}
+
+.FortImage {
+    display: block;
+    margin-left: 10vh;
+    width: 40%;
+}
